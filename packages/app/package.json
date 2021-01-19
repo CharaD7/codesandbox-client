@@ -120,7 +120,7 @@
     "glamor": "^2.20.25",
     "graphql": "^14.1.1",
     "graphql-tag": "^2.10.1",
-    "gsap": "^1.20.3",
+    "gsap": "^3.6.0",
     "gulp": "^3.9.1",
     "gulp-filter": "^5.0.0",
     "gulp-postcss": "^6.4.0",
