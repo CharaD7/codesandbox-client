@@ -36,7 +36,7 @@
     "read-pkg-up": "^4.0.0",
     "resolve": "^1.8.1",
     "stylus": "^0.54.5",
-    "stylus-supremacy": "^2.12.6",
+    "stylus-supremacy": "^2.14.2",
     "typescript": "2.8.4",
     "vscode-css-languageservice": "^3.0.12",
     "vscode-emmet-helper": "^1.1.19",
