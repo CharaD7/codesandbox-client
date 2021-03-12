@@ -101,7 +101,7 @@
     "codemirror": "^5.27.4",
     "codesandbox-api": "^0.0.22",
     "codesandbox-import-utils": "2.1.2",
-    "color": "^0.11.4",
+    "color": "^1.0.0",
     "compare-versions": "^3.1.0",
     "console": "^0.7.2",
     "console-feed": "CompuIves/console-feed#build2",
