@@ -180,7 +180,7 @@
     "react-dnd-html5-backend": "^2.4.1",
     "react-dom": "^16.9.0",
     "react-draggable": "^3.0.5",
-    "react-error-overlay": "^1.0.10",
+    "react-error-overlay": "^2.0.0",
     "react-icons": "^2.2.7",
     "react-input-autosize": "^2.2.1",
     "react-inspector": "^2.2.0",
