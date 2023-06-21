@@ -221,7 +221,7 @@
 	"dependencies": {
 		"svelte-language-server": "0.7.1",
 		"vscode": "^1.1.21",
-		"vscode-languageclient": "^5.0.1"
+		"vscode-languageclient": "^7.0.0"
 	},
 	"__metadata": {
 		"id": "f7ca3c4f-a370-4a7f-8691-7ad0f29f8275",
