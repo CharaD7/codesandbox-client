@@ -50,7 +50,7 @@
     "vscode": "^1.26.0"
   },
   "dependencies": {
-    "vscode-languageclient": "^5.0.1",
+    "vscode-languageclient": "^7.0.0",
     "vscode-languageserver-types": "^3.14.0"
   },
   "activationEvents": [
