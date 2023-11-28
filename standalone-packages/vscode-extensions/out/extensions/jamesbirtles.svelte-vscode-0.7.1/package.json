@@ -219,7 +219,7 @@
 		"typescript": "^3.0.1"
 	},
 	"dependencies": {
-		"svelte-language-server": "0.7.1",
+		"svelte-language-server": "0.14.16",
 		"vscode": "^1.1.21",
 		"vscode-languageclient": "^5.0.1"
 	},
