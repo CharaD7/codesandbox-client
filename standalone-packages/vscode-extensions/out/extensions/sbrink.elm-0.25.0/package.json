@@ -97,7 +97,7 @@
 		"elm-module-parser": "0.1.12",
 		"elm-oracle": "^0.2.0",
 		"lodash": "^4.17.11",
-		"request": "^2.69.0",
+		"request": "^2.88.2",
 		"rimraf": "^2.5.2",
 		"tslint": "^5.4.3",
 		"vscode-uri": "^1.0.0",
