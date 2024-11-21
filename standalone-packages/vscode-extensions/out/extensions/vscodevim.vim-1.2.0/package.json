@@ -719,7 +719,7 @@
 		"appdirectory": "0.1.0",
 		"diff-match-patch": "1.0.4",
 		"lodash": "4.17.11",
-		"mkdirp": "0.5.1",
+		"mkdirp": "0.5.2",
 		"neovim": "4.2.1",
 		"untildify": "3.0.3",
 		"winston": "3.2.1",
