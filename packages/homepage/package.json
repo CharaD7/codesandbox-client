@@ -72,7 +72,7 @@
     "react-transition-group": "^2.2.1",
     "react-typography": "^0.16.13",
     "styled-components": "^4.2.0",
-    "three": "^0.87.1",
+    "three": "^0.137.4",
     "typography": "^0.16.17",
     "typography-breakpoint-constants": "^0.15.10"
   },
