@@ -5,11 +5,11 @@
   "license": "MIT",
   "dependencies": {
     "@codesandbox/common": "^1.0.8",
-    "babel-plugin-emotion": "^9.2.10",
-    "emotion": "^9.2.10",
+    "babel-plugin-emotion": "^9.2.11",
+    "emotion": "^9.2.11",
     "gsap": "^2.0.2",
     "preact": "^8.3.1",
-    "preact-emotion": "^9.2.10",
+    "preact-emotion": "^9.2.11",
     "socket.io-client": "^2.2.0",
     "xterm": "^3.5.1",
     "xterm-webfont": "^1.1.1"
