@@ -74,7 +74,7 @@
     "@types/glob": "^5.0.35",
     "@types/shelljs": "^0.8.0",
     "classnames": "^2.2.5",
-    "codemirror": "^5.35.0",
+    "codemirror": "^6.0.0",
     "codesandbox-api": "^0.0.19",
     "codesandbox-import-utils": "^1.2.3",
     "react-broadcast": "^0.6.2",
