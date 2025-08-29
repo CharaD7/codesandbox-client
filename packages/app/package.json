@@ -98,7 +98,7 @@
     "browser-resolve": "CompuIves/node-browser-resolve",
     "cerebral": "^4.0.0",
     "circular-json": "^0.4.0",
-    "codemirror": "^5.27.4",
+    "codemirror": "^6.0.0",
     "codesandbox-api": "^0.0.22",
     "codesandbox-import-utils": "2.1.2",
     "color": "^0.11.4",
